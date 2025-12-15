@@ -2,6 +2,9 @@
 
 A real-time global chat application with AI integration built with Next.js, Socket.io, and OpenAI. Users can join chat rooms, communicate in real-time, and get AI assistance by mentioning `@ai`.
 
+# AI Chat App 🤖 Live link
+https://ai-chat-app-henna-omega.vercel.app
+
 ## ✨ Features
 
 - **Real-time Messaging** - Instant message delivery using Socket.io
